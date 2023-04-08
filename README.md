@@ -15,3 +15,4 @@
 ## ACKNOWLEDGEMENT
 * This tool was created using JavaFX, SceneBuilder and the IntelliJ IDEA IDE.
 
+## :v: ***Contributions are welcome! Feel free to submit pull requests or open issue and don't forget to give STAR🌟:!!***:relaxed:
